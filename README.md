@@ -9,9 +9,8 @@ I'm passionate about using math, data, and technology to solve real-world proble
 
 
 🛠 Tech Stack:
-Languages: Python, C++, HTML
+Programming Languages: Python, C++, HTML
 Data Science: Pandas, NumPy, scikit-learn, TensorFlow, matplotlib
-Web Dev: HTML, CSS
 Tools: Jupyter Notebooks
 Databases: MySQL
  
