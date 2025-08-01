@@ -1,6 +1,6 @@
-## 👋Hi, I'm Kristina!
+## Kristina Gharibyan
 
-🎓 Senior at UCLA, studying Financial Actuarial Mathematics
+🎓 Financial Actuarial Math major at UCLA
 
 💻 Fellow at Break Through Tech AI
 
