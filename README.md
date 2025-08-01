@@ -1,7 +1,9 @@
 ## 👋Hi, I'm Kristina!
 
 🎓 Senior at UCLA, studying Financial Actuarial Mathematics
+
 💻 Fellow at Break Through Tech AI
+
 💼 Aspiring Actuary and Machine Learning Engineer
 
 
@@ -9,12 +11,18 @@ I'm passionate about using math, data, and technology to solve real-world proble
 
 
 🛠 Tech Stack:
-Programming Languages: Python, C++, HTML
+
+Programming Languages: Python, C++, HTML, MATLAB
+
 Data Science: Pandas, NumPy, scikit-learn, TensorFlow, matplotlib
+
 Tools: Jupyter Notebooks
+
 Databases: MySQL
  
 
 📫 How to Reach Me:
+
 Email: kgharibyan@ucla.edu
+
 LinkedIn: https://www.linkedin.com/in/kristina-gharibyan/
