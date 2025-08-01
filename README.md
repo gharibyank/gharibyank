@@ -10,7 +10,7 @@
 I'm passionate about using math, data, and technology to solve real-world problems in finance, risk, and beyond. As a Break Through Tech AI Fellow, I’ve been building machine learning models and deepening my understanding of AI and data science. I’m a strong believer in continuous learning and taking initiative, and I’m actively seeking opportunities to contribute to impactful, data-driven projects while growing alongside experienced professionals.
 
 
-🛠 Tech Stack:
+🛠 Technical Skills
 
 Programming Languages: Python, C++, HTML, MATLAB
 
@@ -21,7 +21,7 @@ Tools: Jupyter Notebooks
 Databases: MySQL
  
 
-📫 Connect with me:
+📫 Connect with me
 
 Email: kgharibyan@ucla.edu
 
