@@ -21,7 +21,7 @@ Tools: Jupyter Notebooks
 Databases: MySQL
  
 
-📫 How to Reach Me:
+📫 Connect with me:
 
 Email: kgharibyan@ucla.edu
 
